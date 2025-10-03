@@ -1,3 +1,5 @@
+Two models were evaluated in addition to EfficientNet. Their associated notebooks and pipelines are in this git repository.
+
 ## SSD MobileNet Evaluation Metrics
 
 | Metric Type       | IoU Threshold     | Area   | Max Detections | Value  |
