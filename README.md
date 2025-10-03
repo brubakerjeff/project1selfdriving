@@ -1,6 +1,15 @@
 Two models were evaluated in addition to EfficientNet. Their associated notebooks and pipelines are in this git repository.
 
-Where can I find the loss metrics? To improve maybe more data? I'm not sure it's so open ended, I need help minimizing that search space.
+Where can I find the loss metrics?
+THey're all broken up like this?
+'Loss/localization_loss': 0.05764798,
+ 'Loss/regularization_loss': 0.029542064,
+ 'Loss/total_loss': 0.5100068,
+ 'learning_rate': 0.00416}
+ Are those classified as validation and training loss?
+
+ 
+To improve maybe more data? I'm not sure it's so open ended, I need help minimizing that search space.
 
 ## SSD MobileNet Evaluation Metrics
 
