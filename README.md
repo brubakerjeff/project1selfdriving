@@ -1,5 +1,7 @@
 Two models were evaluated in addition to EfficientNet. Their associated notebooks and pipelines are in this git repository.
 
+Where can I find the loss metrics? To improve maybe more data? I'm not sure it's so open ended, I need help minimizing that search space.
+
 ## SSD MobileNet Evaluation Metrics
 
 | Metric Type       | IoU Threshold     | Area   | Max Detections | Value  |
