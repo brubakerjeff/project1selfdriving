@@ -20,11 +20,11 @@ Where can I find the loss metrics? To improve maybe more data? I'm not sure it's
 | Average Recall    | 0.50:0.95        | large  | 100            | 0.525  |
 
 
-EfficentDet
+## EfficentDet
 
-Resnet
 
-## Evaluation Metrics
+
+## Resnet Evaluation Metrics
 
 | Metric Type       | IoU Threshold     | Area   | Max Detections | Value  |
 |-------------------|------------------|--------|----------------|--------|
